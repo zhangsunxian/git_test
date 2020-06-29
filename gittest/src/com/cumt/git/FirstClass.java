@@ -7,4 +7,7 @@ public class FirstClass {
     public void test(){
         return;
     }
+    public void test2{
+        int i=0;
+    }
 }
